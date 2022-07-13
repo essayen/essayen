@@ -1,1 +1,1 @@
-teacher @ HTL Weiz
+_teaching tech_
